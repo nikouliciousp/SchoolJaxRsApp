@@ -45,7 +45,3 @@ The API provides the following endpoints (examples):
 - `PUT /
 - `POST /
 - `DELETE /
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
