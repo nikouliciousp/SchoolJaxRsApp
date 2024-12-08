@@ -42,6 +42,7 @@ This is a Java-based RESTful API for managing a school's information system. It 
 The API provides the following endpoints (examples):
 
 - `GET /
+- `PUT /
 - `POST /
 - `DELETE /
 
