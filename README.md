@@ -1,7 +1,7 @@
 
 # SchoolApp REST API
 
-This is a Java-based RESTful API for managing a school's information system. It is built using JAX-RS technology and provides functionalities to handle various entities, such as teachers, departments, and their relationships.
+This is a Java-based RESTful API for managing a school's information system. It is built using JAX-RS technology and provides functionalities to handle various entities, such as teachers, students, departments, and their relationships.
 
 ## Features
 
